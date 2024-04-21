@@ -1,6 +1,7 @@
 # Solucionador de Error 0x80070643 de Windows 10
 
-Este script proporciona una solución para el error 0x80070643 en sistemas operativos Windows 10. La solución se basa en una metodología presentada por Gaming Uruguay en su canal de YouTube.
+Este script proporciona una solución para el error 0x80070643 en sistemas operativos Windows 10. La solución se basa en una metodología presentada por Gaming Uruguay en su canal de YouTube, siguíendo la documentación oficial [Windows](https://support.microsoft.com/es-es/topic/kb5028997-instrucciones-para-redimensionar-manualmente-la-partici%C3%B3n-para-instalar-la-actualizaci%C3%B3n-de-winre-400faa27-9343-461c-ada9-24c8229763bf).
+
 
 ## Requisitos
 
@@ -23,4 +24,4 @@ Si encuentras algún error o tienes sugerencias de mejora, ¡no dudes en abrir u
 
 ## Agradecimientos
 
-Agradezco a Gaming Uruguay por proporcionar la solución original en su canal de YouTube (<https://www.youtube.com/watch?v=abZVhjaDOuk&t=384s>).
+Agradezco a Gaming Uruguay por proporcionar la solución original en su canal de YouTube [Video](https://www.youtube.com/watch?v=abZVhjaDOuk&t=384s).
